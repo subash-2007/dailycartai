@@ -2,3 +2,9 @@ node_modules/
 .next/
 *.log
 .env
+# .gitignore
+node_modules/
+.next/
+*.log
+.env
+.DS_Store
